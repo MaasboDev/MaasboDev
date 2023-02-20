@@ -8,7 +8,8 @@
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaasboDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/marsal-astals-bota)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaasboDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marsal-astals-bota/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaasboDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
 - [Twitter](https://twitter.com/maasbodev)
 
 <!---
