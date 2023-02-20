@@ -1,16 +1,15 @@
-## 👋 Hi there, my name is Marçal Astals Bota
+# 👋 Hi there, my name is Marçal Astals Bota
 
 <p align="center" width="100%">
     <img width="33%" src="CompleteLogo.png">
 </p>
 
-#### Where to find me
+## Skills:
 
-- [LinkedIn](www.linkedin.com/in/marsal-astals-bota)
+## Find me at:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaasboDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/marsal-astals-bota)
 - [Twitter](https://twitter.com/maasbodev)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 MaasboDev/MaasboDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
