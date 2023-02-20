@@ -1,4 +1,4 @@
-<img src="CompleteLogo.png"/>
+<img src="CompleteLogo.png" align="center" />
 
 - 👋 Hi, I’m @MaasboDev
 - 👀 I’m interested in ...
