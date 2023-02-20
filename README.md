@@ -1,4 +1,6 @@
-<img src="CompleteLogo.png" align="center" />
+<p align="center" width="100%">
+    <img width="33%" src="CompleteLogo.png">
+</p>
 
 - 👋 Hi, I’m @MaasboDev
 - 👀 I’m interested in ...
