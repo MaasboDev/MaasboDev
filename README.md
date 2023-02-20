@@ -1,4 +1,4 @@
-##👋 Hi there, my name is Marçal Astals Bota
+## 👋 Hi there, my name is Marçal Astals Bota
 
 <p align="center" width="100%">
     <img width="33%" src="CompleteLogo.png">
