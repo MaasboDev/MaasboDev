@@ -4,7 +4,7 @@
     <img width="33%" src="CompleteLogo.png">
 </p>
 
-####Where to find me
+#### Where to find me
 
 - [LinkedIn](www.linkedin.com/in/marsal-astals-bota)
 - [Twitter](https://twitter.com/maasbodev)
