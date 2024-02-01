@@ -1,4 +1,6 @@
 # 👋 Hi there, my name is Marçal Astals Bota
+<h3 align="center">Full-stack Android developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maasbodev&label=Profile%20views&color=0e75b6&style=flat" alt="maasbodev" /> </p>
 
 <p align="center" width="100%">
     <img width="33%" src="CompleteLogo.png">
@@ -20,9 +22,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marçal Astals Bota</h1>
-<h3 align="center">Full-stack Android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maasbodev&label=Profile%20views&color=0e75b6&style=flat" alt="maasbodev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaasboDev](https://github.com/MaasboDev)
 
