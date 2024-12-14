@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maasbodev&label=Profile%20views&color=0e75b6&style=flat" alt="maasbodev" /> </p>
 
 <h1 align="center">👋 Hi there, my name is Marçal Astals Bota</h1>
-<h3 align="center">Full-stack Android developer</h3>
+<h3 align="center">Android developer</h3>
 
 <p align="center" width="100%">
     <img width="33%" src="CompleteLogo.png">
